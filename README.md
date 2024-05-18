@@ -32,3 +32,29 @@ Leonardo.ai：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo.ai
+
+## 👨‍💻 Me
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/156971560?v=4"
+    />
+    <p>&nbsp&nbsp&nbspSamuel Sousa<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/SamuSantoss">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/samuel-sousa-998692210/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/samuellsousaa_/">
+    Instagram</a> |
+     <a href="mailto:samueldossantos44@gmail.com">
+    Email</a>&nbsp;
+&nbsp; &nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
